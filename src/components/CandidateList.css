@@ -1,0 +1,35 @@
+.list-container {
+    display: flex;
+    justify-content: center;
+}
+
+.listItem {
+
+    cursor: pointer;
+    width: 600px;
+
+    margin: 16px;
+    border-color: rgb(187, 187, 187);
+    border-width: 1px;
+    border-style: dashed;
+
+    /* equivalent to theme.spacing(2) */
+}
+
+.result-container{
+    justify-content: left;
+    align-items: center;
+}
+
+.pagination{
+    text-align: center;
+    color: black;
+}
+
+.page-button{
+    color: black;
+}
+
+.experience {
+    align-items: left;
+}

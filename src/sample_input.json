@@ -1,0 +1,978 @@
+[
+  {
+    "_id": "63ae8be908554de8535ec200",
+    "_t": "CandidateEntity",
+    "ExternalId": null,
+    "Firstname": "Dang",
+    "Lastname": "Thao Vy",
+    "Middlename": null,
+    "FullName": [],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": "public/talents/candidate/1c462b49-b065-4865-8bf7-bb3752615b79/63ae8be908554de8535ec200/DangThaoVy.png",
+    "OrganizationalUnitId": "1c462b49-b065-4865-8bf7-bb3752615b79",
+    "CountryCallingCode": null,
+    "PhoneNumber": "84911989218",
+    "Email": "vydtspa@gmail.com",
+    "Gender": null,
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": null,
+    "Address": {
+      "StreetAddress": null,
+      "City": null,
+      "Province": null,
+      "ZipCode": null,
+      "Country": ""
+    },
+    "CreatedDate": "2022-12-30T06:57:45.032000",
+    "ModifiedDate": "2022-12-30T06:57:47.629000",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-12-30T06:57:45.032000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": null,
+        "AppliedDate": "2022-12-30T06:57:45.032000",
+        "CurrentPipelineStage": {
+          "PipelineId": "639c149e96321cae63a0c4fa",
+          "PipelineStageId": "639c149e96321cae63a0c4f3",
+          "PipelineStageName": "Sourced",
+          "ModifiedDate": "2022-12-30T06:57:45.041000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Work as an Admin Intern at Orient Software (Da Nang) to gain knowledge and skills in the administration sector, as well as contributing to the company.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [
+            {
+              "_id": "63ae8be908554de8535ec202",
+              "School": "The University of Da Nang",
+              "Degree": "English Language Teaching",
+              "StudyMajorSubject": "",
+              "FromMonth": null,
+              "FromYear": null,
+              "ToMonth": null,
+              "ToYear": null,
+              "Attachments": []
+            }
+          ],
+          "Languages": [
+            {
+              "_id": "63ae8be908554de8535ec203",
+              "Name": "VIETNAMESE",
+              "Proficiency": null,
+              "Attachments": []
+            },
+            {
+              "_id": "63ae8be908554de8535ec204",
+              "Name": "ENGLISH",
+              "Proficiency": null,
+              "Attachments": []
+            },
+            {
+              "_id": "63ae8be908554de8535ec205",
+              "Name": "COMMUNICATION",
+              "Proficiency": null,
+              "Attachments": []
+            }
+          ],
+          "Projects": [],
+          "References": [],
+          "Skills": [
+            {
+              "Name": "EXCEL,",
+              "_id": "63ae8be908554de8535ec206"
+            },
+            {
+              "Name": "AMAZON ADS CAMPAIGNS",
+              "_id": "63ae8be908554de8535ec207"
+            },
+            {
+              "Name": "COMPUTER",
+              "_id": "63ae8be908554de8535ec208"
+            },
+            {
+              "Name": "WORD,",
+              "_id": "63ae8be908554de8535ec209"
+            },
+            {
+              "Name": "CANVA",
+              "_id": "63ae8be908554de8535ec20a"
+            },
+            {
+              "Name": "POWERPOINT,",
+              "_id": "63ae8be908554de8535ec20b"
+            },
+            {
+              "Name": "ADMINISTRATION",
+              "_id": "63ae8be908554de8535ec20c"
+            },
+            {
+              "Name": "TACKLE CUSTOMERS' INQUIRIES AND COMPLAINTS",
+              "_id": "63ae8be908554de8535ec20d"
+            }
+          ],
+          "WorkExperiences": [
+            {
+              "_id": "63ae8be908554de8535ec20e",
+              "Title": "E-Commerce Assistant",
+              "Company": "Trinh Dinh Quyen Company",
+              "FromMonth": 4,
+              "FromYear": 2022,
+              "ToMonth": 8,
+              "ToYear": 2022,
+              "Description": "E-Commerce Assistant\n Upload, edit and maintain listings\n Manage Amazon Ads campaigns\n Tackle customers' inquiries and complaints",
+              "Attachments": []
+            },
+            {
+              "_id": "63ae8be908554de8535ec20f",
+              "Title": "Pedagogical Internship",
+              "Company": "Tran Phu High School",
+              "FromMonth": 2,
+              "FromYear": 2022,
+              "ToMonth": 4,
+              "ToYear": 2022,
+              "Description": "Pedagogical Internship\n Prepare lesson plans\n Deliver lessons both online and in-person\n Organize class meetings and events",
+              "Attachments": []
+            },
+            {
+              "_id": "63ae8be908554de8535ec210",
+              "Title": "Sell movie tickets and refreshments",
+              "Company": "Starlight Cinema",
+              "FromMonth": 1,
+              "FromYear": 2019,
+              "ToMonth": 2,
+              "ToYear": 2022,
+              "Description": "Cinema Attendant\n Sell movie tickets and refreshments\n Resolve customers' complaints",
+              "Attachments": []
+            }
+          ]
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "Manually Added",
+        "JobTitle": null,
+        "CVFile": {
+          "_id": "63ae8be908554de8535ec211",
+          "Name": "ng Tho Vy - vydtspagmail.com.pdf",
+          "Path": "private/talents/candidate/1c462b49-b065-4865-8bf7-bb3752615b79/63ae8be908554de8535ec200/63ae8be908554de8535ec201/ngThoVy-vydtspagmail.com.pdf",
+          "AllowDelete": true
+        },
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "63ae8be908554de8535ec201"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [
+      "95963b55-13ca-4519-9070-5df5709e4e41"
+    ],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "630863b6ad6976ca4aea5e27",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "574cf3ae-c606-48ae-b6cb-b34314e6e6ed",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-08-26T06:09:58.147000",
+    "ModifiedDate": "2022-08-30T08:00:21.945000",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-08-26T06:09:58.147000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": "63073c7c69414e9df918c29a",
+        "AppliedDate": "2022-08-26T06:09:58.137000",
+        "CurrentPipelineStage": {
+          "PipelineId": "62d66a922d2d052d1dce799e",
+          "PipelineStageId": "62d66a922d2d052d1dce799c",
+          "PipelineStageName": "Offer",
+          "ModifiedDate": "2022-08-30T07:36:02.456000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": true,
+        "RejectReason": "Failed interview",
+        "RejectedDate": "2022-08-30T07:59:28.035000",
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": "Human Resource Assistant",
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "630863b6ad6976ca4aea5e24"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [
+      "5da17667-6dbe-4d95-bc5b-9375d54338de"
+    ],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "62f63670ce21771fdec06043",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "afbbe8a0-b58d-418d-ae1c-3e75f2384109",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-08-12T11:16:00.403000",
+    "ModifiedDate": "0001-01-01T00:00:00",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-08-12T11:16:00.403000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": null,
+        "AppliedDate": "2022-08-12T11:16:00.401000",
+        "CurrentPipelineStage": {
+          "PipelineId": "62f63557ce21771fdec06036",
+          "PipelineStageId": "62f63557ce21771fdec0602f",
+          "PipelineStageName": "Sourced",
+          "ModifiedDate": "2022-08-12T11:16:00.401000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": null,
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "62f63670ce21771fdec06040"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "62ecda17a462f6743ffe6e82",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "0df651f5-d05f-4543-833d-ea8e3b8e3ff2",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-08-05T08:51:35.571000",
+    "ModifiedDate": "0001-01-01T00:00:00",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-08-05T08:51:35.571000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": null,
+        "AppliedDate": "2022-08-05T08:51:35.571000",
+        "CurrentPipelineStage": {
+          "PipelineId": "62ecd7f0a462f6743ffe6e7c",
+          "PipelineStageId": "62ecd7f0a462f6743ffe6e75",
+          "PipelineStageName": "Sourced",
+          "ModifiedDate": "2022-08-05T08:51:35.574000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": null,
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "62ecda17a462f6743ffe6e7f"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "62ecc24da462f6743ffe6e6e",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "37d7a0e0-bb16-4576-9508-d1b636bd51ce",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-08-05T07:10:05.522000",
+    "ModifiedDate": "0001-01-01T00:00:00",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-08-05T07:10:05.522000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": null,
+        "AppliedDate": "2022-08-05T07:10:05.522000",
+        "CurrentPipelineStage": {
+          "PipelineId": "5f3108cd66f3c10001624c06",
+          "PipelineStageId": "5f3108cd66f3c10001624bff",
+          "PipelineStageName": "Sourced",
+          "ModifiedDate": "2022-08-05T07:10:05.614000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": null,
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "62ecc24da462f6743ffe6e6b"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "62615c5a241559475dac972c",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Huy",
+    "Lastname": "Tran",
+    "Middlename": null,
+    "FullName": [
+      "Huy Tran",
+      "Tran Huy"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "22d1b4c3-2c82-4e3c-bf9e-7eacc5c840d6",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "huy.tran@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-04-21T13:30:02.139000",
+    "ModifiedDate": "2022-04-21T13:30:32.146000",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-04-21T13:30:02.139000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": "6261578cb959b9a6686c2194",
+        "AppliedDate": "2022-04-21T13:30:02.139000",
+        "CurrentPipelineStage": {
+          "PipelineId": "62615551241559475dac971a",
+          "PipelineStageId": "62615551241559475dac9715",
+          "PipelineStageName": "In Review",
+          "ModifiedDate": "2022-04-21T13:30:32.146000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": "General counsel",
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "62615c5a241559475dac9729"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [
+      "b40205de-9aeb-4fe1-8fd5-86fb89da1d5e"
+    ],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "61aecd76e5025d5e732c691a",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "33841a6e-fe11-4229-ada6-041363952c64",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2021-12-07T02:56:54.037000",
+    "ModifiedDate": "0001-01-01T00:00:00",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2021-12-07T02:56:54.037000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": null,
+        "AppliedDate": "2021-12-07T02:56:54.037000",
+        "CurrentPipelineStage": {
+          "PipelineId": "607e537e5d276cd523cfd430",
+          "PipelineStageId": "607e537e5d276cd523cfd429",
+          "PipelineStageName": "Sourced",
+          "ModifiedDate": "2021-12-07T02:56:54.137000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": null,
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "61aecd76e5025d5e732c6917"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "633f94372629fa091fb55d70",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "5c5f7d81-a637-416b-a2de-4bdaa1fa3874",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews123@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-10-07T02:51:32.143000",
+    "ModifiedDate": "2022-10-17T11:02:27.525000",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-10-07T02:51:32.143000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": "632c357a13248917df8ce2e2",
+        "AppliedDate": "2022-10-07T02:51:32.134000",
+        "CurrentPipelineStage": {
+          "PipelineId": "5fbcb091b0bc200001ec257e",
+          "PipelineStageId": "5fbcb091b0bc200001ec2578",
+          "PipelineStageName": "Applied",
+          "ModifiedDate": "2022-10-17T11:02:27.519000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": "Human Resources Manager",
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "633f94342629fa091fb55cb4"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [
+      "905be719-9594-43c1-91de-0e95ca30220c"
+    ],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "62f4a943a31bc2b4c82c397b",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "61341341-ada6-40be-9deb-ca6de18f31ef",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien Hoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-08-11T07:01:23.154000",
+    "ModifiedDate": "0001-01-01T00:00:00",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-08-11T07:01:23.157000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": null,
+        "AppliedDate": "2022-08-11T07:01:23.154000",
+        "CurrentPipelineStage": {
+          "PipelineId": "62f4a7f3a31bc2b4c82c38b3",
+          "PipelineStageId": "62f4a7f3a31bc2b4c82c38ac",
+          "PipelineStageName": "Sourced",
+          "ModifiedDate": "2022-08-11T07:01:23.155000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": null,
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "62f4a943a31bc2b4c82c3978"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  },
+  {
+    "_id": "622709351a114c6035a4a641",
+    "_t": [
+      "Entity`2",
+      "RootEntity`2",
+      "CandidateEntity"
+    ],
+    "ExternalId": null,
+    "Firstname": "Ivan",
+    "Lastname": "Andrews",
+    "Middlename": null,
+    "FullName": [
+      "Ivan Andrews",
+      "Andrews Ivan"
+    ],
+    "PreviousJob": null,
+    "PreviousCompany": null,
+    "ProfileImagePath": null,
+    "OrganizationalUnitId": "e4e67347-82cc-4c4c-88c4-9511b9bc5370",
+    "CountryCallingCode": null,
+    "PhoneNumber": "955567762",
+    "Email": "ivan.andrews@bravotalent.com",
+    "Gender": "Male",
+    "EducationLevel": null,
+    "MaritalStatus": null,
+    "DateOfBirth": "1989-10-08T00:00:00",
+    "Address": {
+      "StreetAddress": "236 Dinh Tien\nHoang",
+      "City": "Ho Chi Minh",
+      "Province": "Quan Binh Thanh",
+      "ZipCode": null,
+      "Country": "Vietnam"
+    },
+    "CreatedDate": "2022-03-08T07:43:49.129000",
+    "ModifiedDate": "2022-03-08T07:43:58.207000",
+    "Vip24ProfileInvitationDate": null,
+    "ModifiedByUserId": null,
+    "LastAppliedDate": "2022-03-08T07:43:49.129000",
+    "Applications": [
+      {
+        "ExternalId": null,
+        "JobId": null,
+        "AppliedDate": "2022-03-08T07:43:49.129000",
+        "CurrentPipelineStage": {
+          "PipelineId": "622085d61f279ca0a6d4e443",
+          "PipelineStageId": "622085d61f279ca0a6d4e43c",
+          "PipelineStageName": "Sourced",
+          "ModifiedDate": "2022-03-08T07:43:49.237000"
+        },
+        "CV": {
+          "CoverLetter": null,
+          "Summary": "Ivan is a serial entrepreneur with interests in IT, Education, Data Centers, Cloud, Artificial Intelligence (AI), Machine Learning (ML), Robotics, Internet of Things (IoT), Social Analytics, Big Data, Economics, Healthcare, Trade, IoT and Future of Technology.",
+          "Certifications": [],
+          "Courses": [],
+          "Education": [],
+          "Languages": [],
+          "Projects": [],
+          "References": [],
+          "Skills": [],
+          "WorkExperiences": []
+        },
+        "IsRejected": false,
+        "RejectReason": null,
+        "RejectedDate": null,
+        "IsSentEmail": null,
+        "Attachments": [],
+        "CvSource": "User",
+        "JobTitle": null,
+        "CVFile": null,
+        "RejectComment": null,
+        "AssignedHrId": null,
+        "_id": "622709351a114c6035a4a63e"
+      }
+    ],
+    "Tags": [],
+    "ReadByUserIds": [
+      "144a4005-b9ad-4fd2-be89-4b58ae84193e"
+    ],
+    "FollowedByUserIds": [],
+    "OwnedByUserIds": [],
+    "InterestProfileCodes": [],
+    "InterestProfileLastUpdated": null,
+    "InterestProfileImage": null,
+    "UserObjectId": null,
+    "SuitableJobCategories": [],
+    "SocialNetWorkProfiles": [],
+    "Profiles": [],
+    "Sharings": []
+  }
+]
