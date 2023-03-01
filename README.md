@@ -1,8 +1,6 @@
 # Getting Started with this lovely web app 
 
-This project was created by Dung Pham 
-
-##  Installation
+This project was created by Dung Pham.
 
 If you want to run this project you need to install the following packages:
 
@@ -10,8 +8,8 @@ If you want to run this project you need to install the following packages:
 1. Install the node.js
 Open [https://nodejs.org/en/](Node.js) and download it yourself, and run it.
 
-Check version of node by typing:
+Check version of node by typing: node -v in the terminal.
 
-## node -v 
+2. Inside the project, type "npm install"
 
-in the terminal
+3. To run the web app, type "npm start"
