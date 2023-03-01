@@ -10,6 +10,6 @@ Open [https://nodejs.org/en/](Node.js) and download it yourself, and run it.
 
 Check version of node by typing: node -v in the terminal.
 
-2. Inside the project, type "npm install"
+2. Inside the project folder, open terminal, and type "npm install"
 
 3. To run the web app, type "npm start"
